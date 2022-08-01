@@ -5,3 +5,4 @@ I still have not learned about convolutional (Conv2D) layers, that's why I dont 
 However, I hope it is still helpful for you, specially for people starting using Tensorflow as well as I am.
 
 * Dataset is available at [Kaggle](https://www.kaggle.com/datasets/fedesoriano/chinese-mnist-digit-recognizer)
+* Kaggle entry: https://www.kaggle.com/carlosbrown88/chinese-mnist-digit-recognizer
